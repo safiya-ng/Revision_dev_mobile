@@ -20,6 +20,6 @@
     <string name="meter">Meter</string>
     <string name="centimeter">Centimeter</string>
     <string name="birthday">Birthday :</string>
-    <string name="conversion_problem">Conversion problem of datas !</string>
     <string name="input_problem">Input problem !</string>
+    <string name="conversion_problem">Conversion problem of datas !</string>
 </resources>

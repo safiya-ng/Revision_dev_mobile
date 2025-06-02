@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_name">"Apellido : "</string>
+    <string name="last_name">Nombre :</string>
+    <string name="mess_erreur_operation_non_permise">operación no permitida</string>
+    <string name="back">atrás</string>
+    <string name="imc">IMC</string>
+    <string name="invalid_weight">"  ¡Peso inválido!"</string>
+    <string name="invalid_size">¡Tamaño no válido!</string>
+    <string name="enter_last_name">Introduce tu apellido</string>
+    <string name="enter_first_name">Introduce tu nombre</string>
+    <string name="calculate_imc">Calcular IMC</string>
+    <string name="raz">RAZ</string>
+    <string name="weight">"  Peso :"</string>
+    <string name="weight_hint">Introduzca el peso</string>
+    <string name="size">Tamaño :</string>
+    <string name="size_hint">Introduce el tamaño</string>
+    <string name="meter">Metro</string>
+    <string name="centimeter">Centímetro</string>
+    <string name="birthday">Cumpleaños :</string>
+    <string name="conversion_problem">¡Problema de conversión de datos!</string>
+    <string name="input_problem">¡Problema de entrada!</string>
+</resources>
